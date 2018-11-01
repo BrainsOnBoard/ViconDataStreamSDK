@@ -32,6 +32,8 @@
 #include "StringFactory.h"
 #include "CoreAdapters.h"
 
+#include <iostream>
+
 namespace ViconDataStreamSDK
 {
   namespace CPP
